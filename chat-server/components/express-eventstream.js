@@ -1,7 +1,7 @@
 const CustStream = function() {
     var self = this;
 
-    // object literal of connections; IP addresses as the key
+    // object literal of connections; IP addresses of each subscriber as the key
     self.connections = {};
 
     self.enable = function() {

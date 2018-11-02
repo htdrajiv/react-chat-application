@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-const EventStream = require('./express-eventstream');
+const EventStream = require('./components/express-eventstream');
 const stream = new EventStream();
 app.use(stream.enable());
 app.set("stream", stream);
