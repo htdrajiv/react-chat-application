@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83a488e8-3b9c-4548-94b4-9bc538b2e859" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../chat-client" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/chat-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/chat-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/components/chat.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/components/chat.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-client/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-client/src/serviceWorker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,17 +31,18 @@
     <session id="869554625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="express-eventstream" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="9" />
+          <entry key="js" value="10" />
           <entry key="json" value="1" />
           <entry key="www" value="1" />
         </counts>
@@ -35,38 +51,38 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="11" />
+          <entry key="JavaScript" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1606" />
+          <entry key="js" value="1650" />
           <entry key="www" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1607" />
+          <entry key="JavaScript" value="1651" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/express-eventstream.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/express-eventstream.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            <state relative-caret-position="357">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -83,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="306">
               <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
             </state>
           </provider>
@@ -147,20 +163,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="chat-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="chat-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541023699533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541216056717" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.2" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -241,16 +252,18 @@
       <workItem from="1540949128489" duration="10538000" />
       <workItem from="1540995208611" duration="20480000" />
       <workItem from="1541033799516" duration="3185000" />
+      <workItem from="1541194906005" duration="1359000" />
+      <workItem from="1541212383821" duration="3355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36471000" />
+    <option name="totallyTimeSpent" value="41185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -261,7 +274,7 @@
       <window_info id="npm" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36514983" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36514983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,13 +330,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/users.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/express-eventstream.js" />
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -331,24 +338,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="306">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/express-eventstream.js">
+    <entry file="file://$PROJECT_DIR$/components/express-eventstream.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="357">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
