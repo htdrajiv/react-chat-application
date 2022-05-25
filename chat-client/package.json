@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "react": "^16.6.0",
     "react-chat-widget": "^2.1.4-1",
     "react-dom": "^16.6.0",
